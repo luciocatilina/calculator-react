@@ -1,5 +1,4 @@
-#¡¡the calculator works also with using your keyboard!!
-
+# ¡¡The calculator works also using your keyboard!!
 
 
 # Getting Started with Create React App

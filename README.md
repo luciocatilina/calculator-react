@@ -1,7 +1,7 @@
 # ¡¡The calculator works also using your keyboard!!
 
 
-# Getting Started with Create React App
+Getting started with create react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

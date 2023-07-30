@@ -1,0 +1,10 @@
+.btn_clear {
+    width: calc(100% - 8px);
+    margin: 4px;
+    border-radius: 25px;
+    font-size: 45px;
+    text-align: center;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    user-select: none;
+}

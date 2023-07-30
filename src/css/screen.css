@@ -1,0 +1,16 @@
+.screen {
+    background-color: #403b33;
+    font-size: 50;
+    height: 70px;
+    margin: 10px 4px;
+    padding-right: 10px;
+    width: calc(100% - 8px);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #edebe6;
+    font-size: 50px;
+    border-radius: 25px;
+    user-select: none;
+
+}

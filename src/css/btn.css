@@ -1,0 +1,33 @@
+.btn {
+    height: 80px;
+    background-color: #94c7b6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    border-radius: 20px;
+    flex: 1 1;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: bold;
+    user-select: none;
+}
+
+.btn:hover {
+    background-color: #d6e1c7;
+}
+
+.activate {
+    background-color: #d6e1c7 !important;
+}
+
+.operator {
+    background-color: #403b33;
+    color: #edebe6;
+}
+
+.operator:hover {
+    color: #403b33;
+    background-color: #edebe6;
+}
+
